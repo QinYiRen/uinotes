@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# uinotes
-=======
-# uinotes
+# UINotes
 
-A new Flutter project.
+欢迎来到 UINotes！这是一个基于 Flutter 开发的跨平台应用，旨在为用户提供便捷的 UI 设计笔记和搜索功能。无论您是设计师、开发者还是任何对 UI 设计感兴趣的人，UINotes 都将是您理想的工具。
 
-## Getting Started
+UINotes 的源码为开源，欢迎大家查看和贡献。作者第一次尝试 Flutter，感谢大家的包涵与支持！
 
-This project is a starting point for a Flutter application.
+## 官方网站
 
-A few resources to get you started if this is your first Flutter project:
+[www.uinotes.com](http://www.uinotes.com)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 主要特性
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 29c7f00 (初始提交)
+- **跨平台支持**：UINotes 完美适配 Android 和 iOS 设备，让您在任何平台上都能享受流畅的用户体验。
+- **自适应布局**：无论是平板的竖屏还是横屏模式，UINotes 都能智能调整布局，为您提供最佳的视觉体验。
+- **UI 搜索功能**：强大的搜索引擎帮助您快速找到所需的设计元素和灵感。
+- **个人中心**：轻松管理您的个人资料和收藏夹，便于随时访问您的设计笔记。
+
+快来体验 UINotes，提升您的设计效率，激发您的创造力吧！
